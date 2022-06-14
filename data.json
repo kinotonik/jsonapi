@@ -1,69 +1,83 @@
 {
-    "results": [
-        {
+  "results": [
+
+    {
+      "id": 1,
+      "gender": "male",
+      "age": 26,
+      "name": {
+        "title": "mr",
+        "first": "brad",
+        "last": "gibson"
+      },
+      "contact": {
+        "phone": "011-962-7516",
+        "email": "brad.gibson@example.com"
+      },
+      "picture": {
+        "large": "https://randomuser.me/api/portraits/men/75.jpg",
+        "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+        "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+      },
+      "location": {
+        "street": "9278 new road",
+        "city": "Tours",
+        "state": "France",
+        "postcode": 44000,
+        "coordinates": {
+          "latitude": 47.39501935922057,
+          "longitude": 0.681839035582598
+        }
+      },
+      "music": {
+        "style": [
+          "Punk",
+          "Rock",
+          "Disco"
+        ],
+        "expérience": "débutant",
+        "instrument": [
+          "Guitare",
+          "Clavecin",
+          "Viole de Gambe",
+          "Djambé",
+          "Harpe",
+          "Piano",
+          "Saxophone",
+          "Batterie",
+          "Vielle à roue",
+          "Contrebasse",
+          "Violon",
+          "flûte",
+          "Harmonica",
+          "Marimba",
+          "DJ",
+          "Triangle"
+        ],
+        "groupe": {
+          "isGroupe": true,
+          "name": "TNT"
+        }
+      }
+    }
+      {
+        "id": 2,
         "gender": "male",
         "age": 26,
         "name": {
-            "title": "mr",
-            "first": "brad",
-            "last": "gibson"          
+          "title": "mr",
+          "first": "brad",
+          "last": "rouflaquette"
         },
-           
         "contact": {
-            "phone": "011-962-7516",
-            "email": "brad.gibson@example.com"
+          "phone": "011-962-7516",
+          "email": "brad.gibson@example.com"
         },
- 
         "picture": {
           "large": "https://randomuser.me/api/portraits/men/75.jpg",
           "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
           "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
         },
- 
-        "location": {
-          "street": "9278 new road",
-          "city": "Tours",
-          "state": "France",
-          "postcode": 44000,
-          "coordinates": {
-            "latitude": 47.39501935922057,
-            "longitude": 0.681839035582598 
-          }
-        },
- 
-        "music": {
-          "style": ["Punk", "Rock", "Disco"],
-          "expérience": "débutant",
-          "instrument": ["Guitare", "Clavecin", "Viole de Gambe", "Djambé", "Harpe", "Piano", "Saxophone", "Batterie", "Vielle à roue", "Contrebasse", "Violon", "flûte", "Harmonica", "Marimba", "DJ", "Triangle"],
-          "groupe":{
-            "isGroupe": true,
-            "name": "TNT"
-          }
-        },
-       
-        "id": 1
-       
-        },
-        {
-        "gender": "male",
-        "age": 26,
-        "name": {
-            "title": "mr",
-            "first": "brad",
-            "last": "rouflaquette"          
-        },
-           
-        "contact": {
-            "phone": "011-962-7516",
-            "email": "brad.gibson@example.com"
-        },
- 
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
- 
         "location": {
           "street": "9278 new road",
           "city": "Nantes",
@@ -74,64 +88,95 @@
             "longitude": 0.692863
           }
         },
- 
         "music": {
-          "style": ["Punk", "Rock", "Disco"],
+          "style": [
+            "Punk",
+            "Rock",
+            "Disco"
+          ],
           "expérience": "débutant",
-          "instrument": ["Guitare", "Clavecin", "Viole de Gambe", "Djambé", "Harpe", "Piano", "Saxophone", "Batterie", "Vielle à roue", "Contrebasse", "Violon", "flûte", "Harmonica", "Marimba", "DJ", "Triangle"],
-          "groupe":{
+          "instrument": [
+            "Guitare",
+            "Clavecin",
+            "Viole de Gambe",
+            "Djambé",
+            "Harpe",
+            "Piano",
+            "Saxophone",
+            "Batterie",
+            "Vielle à roue",
+            "Contrebasse",
+            "Violon",
+            "flûte",
+            "Harmonica",
+            "Marimba",
+            "DJ",
+            "Triangle"
+          ],
+          "groupe": {
             "isGroupe": true,
             "name": "TNT"
           }
-        },
-       
-        "id": 2
-       
-        },
-{
-        "gender": "male",
-        "age": 26,
-        "name": {
+        }
+      },
+        {
+          "id": 3,
+          "gender": "male",
+          "age": 26,
+          "name": {
             "title": "mr",
             "first": "brad",
-            "last": "derie"          
-        },
-           
-        "contact": {
+            "last": "derie"
+          },
+          "contact": {
             "phone": "011-962-7516",
             "email": "brad.gibson@example.com"
-        },
- 
-        "picture": {
-          "large": "https://randomuser.me/api/portraits/men/75.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
-        },
- 
-        "location": {
-          "street": "9278 new road",
-          "city": "Nantes",
-          "state": "France",
-          "postcode": 44000,
-          "coordinates": {
-            "latitude": 47.389509, 
-            "longitude": 0.693421
+          },
+          "picture": {
+            "large": "https://randomuser.me/api/portraits/men/75.jpg",
+            "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+            "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+          },
+          "location": {
+            "street": "9278 new road",
+            "city": "Nantes",
+            "state": "France",
+            "postcode": 44000,
+            "coordinates": {
+              "latitude": 47.389509,
+              "longitude": 0.693421
+            }
+          },
+          "music": {
+            "style": [
+              "Punk",
+              "Rock",
+              "Disco"
+            ],
+            "expérience": "débutant",
+            "instrument": [
+              "Guitare",
+              "Clavecin",
+              "Viole de Gambe",
+              "Djambé",
+              "Harpe",
+              "Piano",
+              "Saxophone",
+              "Batterie",
+              "Vielle à roue",
+              "Contrebasse",
+              "Violon",
+              "flûte",
+              "Harmonica",
+              "Marimba",
+              "DJ",
+              "Triangle"
+            ],
+            "groupe": {
+              "isGroupe": true,
+              "name": "TNT"
+            }
           }
-        },
- 
-        "music": {
-          "style": ["Punk", "Rock", "Disco"],
-          "expérience": "débutant",
-          "instrument": ["Guitare", "Clavecin", "Viole de Gambe", "Djambé", "Harpe", "Piano", "Saxophone", "Batterie", "Vielle à roue", "Contrebasse", "Violon", "flûte", "Harmonica", "Marimba", "DJ", "Triangle"],
-          "groupe":{
-            "isGroupe": true,
-            "name": "TNT"
-          }
-        },
-       
-        "id": 3
-       
         }
-    ]
-   
-}
+      ]
+    }
