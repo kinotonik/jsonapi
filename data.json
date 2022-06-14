@@ -41,15 +41,7 @@
           }
         },
        
-        "login": {
-            "uuid": "155e77ee-ba6d-486f-95ce-0e0c0fb4b919",
-            "username": "silverswan131",
-            "password": "firewall",
-            "salt": "TQA1Gz7x",
-            "md5": "dc523cb313b63dfe5be2140b0c05b3bc",
-            "sha1": "7a4aa07d1bedcc6bcf4b7f8856643492c191540d",
-            "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
-        }      
+        "id": 001
        
         },
         {
@@ -58,7 +50,7 @@
         "name": {
             "title": "mr",
             "first": "brad",
-            "last": "gibson"          
+            "last": "rouflaquette"          
         },
            
         "contact": {
@@ -78,8 +70,8 @@
           "state": "France",
           "postcode": 44000,
           "coordinates": {
-            "latitude": 47.218372,
-            "longitude": -1.553621
+            "latitude": 47.394303,
+            "longitude": 0.692863
           }
         },
  
@@ -93,15 +85,7 @@
           }
         },
        
-        "login": {
-            "uuid": "155e77ee-ba6d-486f-95ce-0e0c0fb4b919",
-            "username": "silverswan131",
-            "password": "firewall",
-            "salt": "TQA1Gz7x",
-            "md5": "dc523cb313b63dfe5be2140b0c05b3bc",
-            "sha1": "7a4aa07d1bedcc6bcf4b7f8856643492c191540d",
-            "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
-        }      
+        "id": 002
        
         },
 {
@@ -110,7 +94,7 @@
         "name": {
             "title": "mr",
             "first": "brad",
-            "last": "gibson"          
+            "last": "derie"          
         },
            
         "contact": {
@@ -130,8 +114,8 @@
           "state": "France",
           "postcode": 44000,
           "coordinates": {
-            "latitude": 47.218372,
-            "longitude": -1.553621
+            "latitude": 47.389509, 
+            "longitude": 0.693421
           }
         },
  
@@ -145,15 +129,7 @@
           }
         },
        
-        "login": {
-            "uuid": "155e77ee-ba6d-486f-95ce-0e0c0fb4b919",
-            "username": "silverswan131",
-            "password": "firewall",
-            "salt": "TQA1Gz7x",
-            "md5": "dc523cb313b63dfe5be2140b0c05b3bc",
-            "sha1": "7a4aa07d1bedcc6bcf4b7f8856643492c191540d",
-            "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
-        }      
+        "id": 003
        
         }
     ]
