@@ -51,6 +51,110 @@
             "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
         }      
        
+        },
+        {
+        "gender": "male",
+        "age": 26,
+        "name": {
+            "title": "mr",
+            "first": "brad",
+            "last": "gibson"          
+        },
+           
+        "contact": {
+            "phone": "011-962-7516",
+            "email": "brad.gibson@example.com"
+        },
+ 
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+        },
+ 
+        "location": {
+          "street": "9278 new road",
+          "city": "Nantes",
+          "state": "France",
+          "postcode": 44000,
+          "coordinates": {
+            "latitude": 47.218372,
+            "longitude": -1.553621
+          }
+        },
+ 
+        "music": {
+          "style": ["Punk", "Rock", "Disco"],
+          "expérience": "débutant",
+          "instrument": ["Guitare", "Clavecin", "Viole de Gambe", "Djambé", "Harpe", "Piano", "Saxophone", "Batterie", "Vielle à roue", "Contrebasse", "Violon", "flûte", "Harmonica", "Marimba", "DJ", "Triangle"],
+          "groupe":{
+            "isGroupe": true,
+            "name": "TNT"
+          }
+        },
+       
+        "login": {
+            "uuid": "155e77ee-ba6d-486f-95ce-0e0c0fb4b919",
+            "username": "silverswan131",
+            "password": "firewall",
+            "salt": "TQA1Gz7x",
+            "md5": "dc523cb313b63dfe5be2140b0c05b3bc",
+            "sha1": "7a4aa07d1bedcc6bcf4b7f8856643492c191540d",
+            "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
+        }      
+       
+        },
+{
+        "gender": "male",
+        "age": 26,
+        "name": {
+            "title": "mr",
+            "first": "brad",
+            "last": "gibson"          
+        },
+           
+        "contact": {
+            "phone": "011-962-7516",
+            "email": "brad.gibson@example.com"
+        },
+ 
+        "picture": {
+          "large": "https://randomuser.me/api/portraits/men/75.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+        },
+ 
+        "location": {
+          "street": "9278 new road",
+          "city": "Nantes",
+          "state": "France",
+          "postcode": 44000,
+          "coordinates": {
+            "latitude": 47.218372,
+            "longitude": -1.553621
+          }
+        },
+ 
+        "music": {
+          "style": ["Punk", "Rock", "Disco"],
+          "expérience": "débutant",
+          "instrument": ["Guitare", "Clavecin", "Viole de Gambe", "Djambé", "Harpe", "Piano", "Saxophone", "Batterie", "Vielle à roue", "Contrebasse", "Violon", "flûte", "Harmonica", "Marimba", "DJ", "Triangle"],
+          "groupe":{
+            "isGroupe": true,
+            "name": "TNT"
+          }
+        },
+       
+        "login": {
+            "uuid": "155e77ee-ba6d-486f-95ce-0e0c0fb4b919",
+            "username": "silverswan131",
+            "password": "firewall",
+            "salt": "TQA1Gz7x",
+            "md5": "dc523cb313b63dfe5be2140b0c05b3bc",
+            "sha1": "7a4aa07d1bedcc6bcf4b7f8856643492c191540d",
+            "sha256": "74364e96174afa7d17ee52dd2c9c7a4651fe1254f471a78bda0190135dcd3480"
+        }      
+       
         }
     ]
    
