@@ -8,175 +8,212 @@
 			"age": 26,
 			"name": {
 				"title": "mr",
-				"first": "Brad",
-				"last": "Gibson"
-			},
-			"contact": {
-				"phone": "011-962-7516",
-				"email": "brad.gibson@example.com"
-			},
+				"first": "Jonas",
+				"last": "Stikot"
+			},	
+			"email": "Jonas@example.com",
 			"picture": {
-				"large": "https://randomuser.me/api/portraits/men/75.jpg",
-				"medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+				"large": "https://randomuser.me/api/portraits/men/1.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
 			},
 			"location": {
-				"street": "9278 new road",
 				"city": "Tours",
 				"state": "France",
-				"postcode": 44000,
 				"coordinates": {
 					"latitude": 47.39501935922057,
 					"longitude": 0.681839035582598
 				}
 			},
 			"music": {
-				"style": ["Punk", "Rock", "Disco"],
+				"style": ["Punk"],
 				"expérience": "débutant",
 				"instrument": [
-					"Guitare",
-					"Clavecin",
-					"Viole de Gambe",
-					"Djambé",
-					"Harpe",
-					"Piano",
-					"Saxophone",
-					"Batterie",
-					"Vielle à roue",
-					"Contrebasse",
-					"Violon",
-					"flûte",
-					"Harmonica",
-					"Marimba",
-					"DJ",
-					"Triangle"
+					"Guitare"
 				]
 			}
 		},
 		{
-			"id": 1,
+			"id": 2,
 			"gender": "male",
 			"age": 26,
 			"name": {
 				"title": "mr",
-				"first": "brad",
-				"last": "gibson"
+				"first": "Brice",
+				"last": "Denice"
 			},
-			"contact": {
-				"phone": "011-962-7516",
-				"email": "brad.gibson@example.com"
-			},
+			"email": "brice@example.com",
+
 			"picture": {
-				"large": "https://randomuser.me/api/portraits/men/75.jpg",
-				"medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+				"large": "https://randomuser.me/api/portraits/men/2.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
 			},
 			"location": {
-				"street": "9278 new road",
 				"city": "Tours",
 				"state": "France",
-				"postcode": 44000,
 				"coordinates": {
 					"latitude": 47.39501935922057,
 					"longitude": 0.681839035582598
 				}
 			},
 			"music": {
-				"style": ["Punk", "Rock", "Disco"],
+				"style": ["Punk"],
 				"expérience": "débutant",
 				"instrument": [
-					"Guitare",
-					"Clavecin",
-					"Viole de Gambe",
-					"Djambé",
-					"Harpe",
-					"Piano",
-					"Saxophone",
 					"Batterie",
-					"Vielle à roue",
-					"Contrebasse",
-					"Violon",
-					"flûte",
-					"Harmonica",
-					"Marimba",
-					"DJ",
-					"Triangle"
 				]
 			}
 		},
 		{
-			"id": 1,
-			"gender": "male",
+			"id": 3,
+			"gender": "female",
 			"age": 26,
 			"name": {
-				"title": "mr",
-				"first": "brad",
-				"last": "gibson"
+				"title": "mrs",
+				"first": "Andréa",
+				"last": "Léatoire"
 			},
-			"contact": {
-				"phone": "011-962-7516",
-				"email": "brad.gibson@example.com"
-			},
+			"email": "andrea@example.com",
 			"picture": {
-				"large": "https://randomuser.me/api/portraits/men/75.jpg",
-				"medium": "https://randomuser.me/api/portraits/med/men/75.jpg",
-				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/75.jpg"
+				"large": "https://randomuser.me/api/portraits/men/3.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
 			},
 			"location": {
-				"street": "9278 new road",
 				"city": "Tours",
 				"state": "France",
-				"postcode": 44000,
 				"coordinates": {
 					"latitude": 47.39501935922057,
 					"longitude": 0.681839035582598
 				}
 			},
 			"music": {
-				"style": ["Punk", "Rock", "Disco"],
+				"style": ["Punk"],
 				"expérience": "débutant",
 				"instrument": [
-					"Guitare",
-					"Clavecin",
-					"Viole de Gambe",
-					"Djambé",
-					"Harpe",
-					"Piano",
-					"Saxophone",
-					"Batterie",
-					"Vielle à roue",
-					"Contrebasse",
-					"Violon",
-					"flûte",
-					"Harmonica",
-					"Marimba",
-					"DJ",
-					"Triangle"
-				]
+					"Chant"				]
 			}
 		}
 	],
 	"members": 3,
-	"contact": "email: brad.gibson@example.com",
-	"picture": "https://randomuser.me/api/portraits/men/75.jpg",
+	"contact": "email: lordofring@example.com",
+	"jacket": "https://images.pexels.com/photos/953457/pexels-photo-953457.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
 	"location": {
+		"city": "Tours",
 		"coordinates": {
 			"latitude": 47.39501935922057,
 			"longitude": 0.681839035582598
 		}
 	},
-	"style": ["Punk", "Rock"],
+	"style": ["Punk"],
 	"expérience": "débutant",
 	"instrument": [
 		"Guitare",
-		"Clavecin",
-		"Viole de Gambe",
-		"Djambé",
-		"Harpe",
-		"Piano",
-		"Saxophone",
+		"Chant",
 		"Batterie"
 	],
-	"niveau": ["debutant", "intermédiaire", "expert"]
+	"search": {
+		"instrument": "Basse",
+		"niveau": "débutant",
+		"objectif": "loisir",
+		"city": "Tours"
+	}
+},
+
+
+{
+	"id": 2,
+	"name": "Flanades du 95",
+	"id_membre": [
+		{
+			"id": 1,
+			"gender": "female",
+			"age": 36,
+			"name": {
+				"title": "mrs",
+				"first": "Zoubida",
+				"last": "De Laferté"
+			},	
+			"email": "zoubida@example.com",
+			
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/2.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/2.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/2.jpg"
+			},
+			"location": {
+				"city": "Sarcelles",
+				"state": "France",
+				"coordinates": {
+					"latitude": 48.97808704866948,
+					"longitude": 2.369591875274618
+				}
+			},
+			"music": {
+				"style": ["RAP"],
+				"expérience": "débutant",
+				"instrument": [
+					"Chant"
+				]
+			}
+		},
+		{
+			"id": 2,
+			"gender": "male",
+			"age": 26,
+			"name": {
+				"title": "mr",
+				"first": "Olivier",
+				"last": "De Laferté"
+			},
+			"email": "olivier@example.com",
+		
+			"picture": {
+				"large": "https://randomuser.me/api/portraits/men/3.jpg",
+				"medium": "https://randomuser.me/api/portraits/med/men/3.jpg",
+				"thumbnail": "https://randomuser.me/api/portraits/thumb/men/3.jpg"
+			},
+			"location": {
+				"city": "Sarcelles",
+				"state": "France",
+				"coordinates": {
+					"latitude": 48.97808704866948,
+					"longitude": 2.369591875274618
+				}
+			},
+			"music": {
+				"style": ["RAP"],
+				"expérience": "débutant",
+				"instrument": [
+					"Paltine",
+				]
+			}
+		},
+		
+		}
+	],
+	"members": 2,
+	"contact": "flanades95@example.com",
+	"jacket": "https://images.pexels.com/photos/5783479/pexels-photo-5783479.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+	"location": {
+		"city": "Sarcelles",
+		"coordinates": {
+			"latitude": 48.97808704866948,
+			"longitude": 2.369591875274618
+		}
+	},
+	"style": ["RAP"],
+	"expérience": "débutant",
+	"instrument": [
+		"Platine",
+		"Chant"
+	],
+	"search": {
+		"instrument": "piano",
+		"niveau": "débutant",
+		"objectif": "loisir",
+		"city": "Sarcelles"
+	}
 }
 
