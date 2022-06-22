@@ -3,6 +3,19 @@
 
     {
       "id": 1,
+      "type": {
+          "isGroupe": true,
+          "membre": {
+            id:1,
+            id:5,
+            id:6
+          }
+          "name": "TNT",
+          "genre": "Tekno",
+          "instrument": "platine",
+          "niveau": "intermédiaire",
+          "objectif": "loisir"          
+        }
       "gender": "male",
       "age": 26,
       "name": {
@@ -54,10 +67,7 @@
           "DJ",
           "Triangle"
         ],
-        "groupe": {
-          "isGroupe": true,
-          "name": "TNT"
-        }
+
       }
     },
       {
