@@ -448,9 +448,9 @@
         "location": {
           "city": "Le Mans",
           "state": "France",
-          "coordinates": { 
-            "latitude": 40.756724256036264,  
-            "longitude": -73.985868175718
+          "coordinates": {  
+            "latitude": 48.00134521436187,  
+            "longitude": 0.19877772479175518
           }
         },
         "music": {
