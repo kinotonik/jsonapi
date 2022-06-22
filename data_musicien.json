@@ -6,9 +6,9 @@
       "type": {
           "isGroupe": true,
           "membre": {
-            id:1,
-            id:5,
-            id:6
+            "id":1,
+            "id":5,
+            "id":6
           }
           "name": "TNT",
           "genre": "Tekno",
