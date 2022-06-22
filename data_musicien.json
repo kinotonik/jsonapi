@@ -568,9 +568,9 @@
         "location": {
           "city": "Berlin",
           "state": "Allemagne",
-          "coordinates": {
-            "latitude": 52.511267961355514, 
-            "longitude": 3.443047413676705
+          "coordinates": { 
+            "latitude": 52.52640015450125,
+            "longitude": 13.379407100957946
           }
         },
         "music": {
