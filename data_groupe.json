@@ -16,7 +16,6 @@
       "instrument": "platine",
       "niveau": "intermédiaire",
       "objectif": "loisir"          
-        }
       
       "contact": {
         "phone": "011-962-7516",
@@ -38,7 +37,7 @@
           "latitude": 47.39501935922057,
           "longitude": 0.681839035582598
         }
-      
+      }
      
     ]
-  }
+ }
