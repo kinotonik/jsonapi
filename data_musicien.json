@@ -603,9 +603,9 @@
           "email": "arieragrande@example.com"
         },
         "picture": {
-          "large": "https://randomuser.me/api/portraits/woman/16.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/woman/16.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/woman/16.jpg"
+          "large": "https://randomuser.me/api/portraits/women/16.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/16.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/16.jpg"
         },
         "location": {
           "city": "Paris",
@@ -640,9 +640,9 @@
           "email": "boobabe@example.com"
         },
         "picture": {
-          "large": "https://randomuser.me/api/portraits/woman/17.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/woman/17.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/woman/17.jpg"
+          "large": "https://randomuser.me/api/portraits/women/17.jpg",
+          "medium": "https://randomuser.me/api/portraits/med/women/17.jpg",
+          "thumbnail": "https://randomuser.me/api/portraits/thumb/women/17.jpg"
         },
         "location": {
           "city": "Paris",
