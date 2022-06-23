@@ -35,7 +35,10 @@
           "instrument": [
             "Guitare"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -73,8 +76,10 @@
           "instrument": [
             "Basse"
           ],
-          "lien": "https"
-  
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
         }
       },
       
@@ -111,8 +116,10 @@
           "instrument": [
             "Violon"
           ],
-          "lien": "https"
-  
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
         }
       },
       
@@ -150,8 +157,10 @@
         "instrument": [
           "Saxophone"
         ],
-        "lien": "https"
-  
+        "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
       }
     },
   
@@ -189,8 +198,10 @@
         "instrument": [
           "Clavecin"
         ],
-        "lien": "https"
-  
+        "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
       }
     },
     {
@@ -227,8 +238,10 @@
         "instrument": [
           "Guitare"
         ],
-        "lien": "https"
-  
+        "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
       }
     },
   
@@ -267,7 +280,10 @@
             "Chant"
   
           ],
-        "lien": "https"
+        "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
         }
       },
   
@@ -307,7 +323,10 @@
           "instrument": [
             "Guitare"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
         }
       },
   
@@ -344,7 +363,10 @@
           "instrument": [
             "Batterie"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
         }
       },
   
@@ -385,7 +407,10 @@
           "instrument": [
             "Harpe"
           ],
-      "lien":"https://www.shutterstock.com/fr/music/track-438590-scarborough-fair"
+      "lien":"https://www.shutterstock.com/fr/music/track-438590-scarborough-fair",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -423,7 +448,10 @@
           "instrument": [
             "Platine"
           ],
-      "lien":"https://www.shutterstock.com/fr/music/track-1216158-subterfuge"
+      "lien":"https://www.shutterstock.com/fr/music/track-1216158-subterfuge",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -461,7 +489,10 @@
           "instrument": [
             "Batterie"
           ],
-      "lien":"https://www.shutterstock.com/fr/music/track-437141-final-stage"
+      "lien":"https://www.shutterstock.com/fr/music/track-437141-final-stage",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -503,7 +534,10 @@
           "instrument": [
             "Chant"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -543,7 +577,10 @@
           "instrument": [
             "Guitare"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -581,7 +618,10 @@
           "instrument": [
             "Guitare électrique"
           ],
-           "lien": "https"
+           "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -623,7 +663,10 @@
           "instrument": [
             "Chant"
           ],
-           "lien": "https"
+           "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       }, 
@@ -660,7 +703,10 @@
           "instrument": [
             "Chant"
           ],
-           "lien": "https"
+           "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -698,7 +744,10 @@
           "instrument": [
             "Batterie"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       },
@@ -736,7 +785,10 @@
           "instrument": [
             "Flute"
           ],
-          "lien": "https"
+          "lien": "https",
+            "description: "Le Lorem Ipsum est simplement du faux texte employé dans la composition et la mise en page avant impression. 
+            Le Lorem Ipsum est le faux texte standard de imprimerie depuis les années, 
+            quand un imprimeur anonyme assembla ensemble des morceaux de texte pour réaliser un livre spécimen de polices de texte."
   
         }
       }
