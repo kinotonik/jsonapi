@@ -14,9 +14,9 @@
           "email": "brad.gibson@example.com"
         },
         "picture": {
-          "large": "https://randomuser.me/api/portraits/men/1.jpg",
-          "medium": "https://randomuser.me/api/portraits/med/men/1.jpg",
-          "thumbnail": "https://randomuser.me/api/portraits/thumb/men/1.jpg"
+          "large": "https://images.pexels.com/photos/164835/pexels-photo-164835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "medium": "https://images.pexels.com/photos/164835/pexels-photo-164835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+          "thumbnail": "https://images.pexels.com/photos/164835/pexels-photo-164835.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1.jpg"
         },
         "location": {
           "city": "Tours",
