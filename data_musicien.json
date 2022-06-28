@@ -3,7 +3,7 @@
   
       {
         "id": 1,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 26,
         "name": {
           "title": "mr",
@@ -31,7 +31,8 @@
             "Rock",
             "Disco"
           ],
-          "expérience": "Débutant",
+
+          "expérience": "débutant",
           "instrument": [
             "Guitare"
           ],
@@ -43,7 +44,7 @@
       
           {
         "id": 2,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 28,
         "name": {
           "title": "mr",
@@ -70,7 +71,7 @@
           "style": [
            "Punk"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Basse"
           ],
@@ -82,7 +83,7 @@
       
               {
         "id": 3,
-        "gender": "Femme",
+        "gender": "femme",
         "age": 32,
         "name": {
           "title": "ms",
@@ -109,7 +110,7 @@
           "style": [
            "Classic"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Violon"
           ],
@@ -121,7 +122,7 @@
       
       {
       "id": 4,
-      "gender": "Femme",
+      "gender": "femme",
       "age": 76,
       "name": {
         "title": "ms",
@@ -148,7 +149,7 @@
         "style": [
           "Jazz"
         ],
-        "expérience": "Confirmé",
+        "experience": "confirmé",
         "instrument": [
           "Saxophone"
         ],
@@ -160,7 +161,7 @@
   
     {
       "id": 5,
-      "gender": "Homme",
+      "gender": "homme",
       "age": 62,
       "name": {
         "title": "mr",
@@ -187,7 +188,7 @@
         "style": [
           "Classic"
         ],
-        "expérience": "Confirmé",
+        "experience": "confirmé",
         "instrument": [
           "Clavecin",
             "Piano"
@@ -199,7 +200,7 @@
     },
     {
       "id": 6,
-      "gender": "Homme",
+      "gender": "homme",
       "age": 16,
       "name": {
         "title": "mr",
@@ -227,7 +228,7 @@
         "style": [
           "Disco"
         ],
-        "expérience": "Débutant",
+        "experience": "débutant",
         "instrument": [
           "Guitare"
         ],
@@ -240,7 +241,7 @@
       
     {
         "id": 7,
-        "gender": "Femme",
+        "gender": "femme",
         "age": 72,
         "name": {
           "title": "Lady",
@@ -267,7 +268,7 @@
           "style": [
            "Classique"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Chant"
   
@@ -283,7 +284,7 @@
   
   {
         "id": 8,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 48,
         "name": {
           "title": "mr",
@@ -310,7 +311,7 @@
           "style": [
            "Metal"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Guitare"
           ],
@@ -322,7 +323,7 @@
   
   {
         "id": 9,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 32,
         "name": {
           "title": "mr",
@@ -349,7 +350,7 @@
           "style": [
            "Rock"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Batterie"
           ],
@@ -392,7 +393,7 @@
           "style": [
            "Classique"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Harpe"
           ],
@@ -432,7 +433,7 @@
           "style": [
            "Techno"
           ],
-          "expérience": "Débutant",
+          "experience": "débutant",
           "instrument": [
             "Platine"
           ],
@@ -472,7 +473,7 @@
           "style": [
            "Rock"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Batterie"
           ],
@@ -516,7 +517,7 @@
           "style": [
            "Rock"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Chant"
           ],
@@ -531,7 +532,7 @@
   
   {
         "id": 14,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 34,
         "name": {
           "title": "mr",
@@ -558,7 +559,7 @@
           "style": [
            "Rock"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Guitare"
           ],
@@ -571,7 +572,7 @@
       
       {
         "id": 15,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 28,
         "name": {
           "title": "mr",
@@ -598,7 +599,7 @@
           "style": [
            "Punk"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Guitare Electrique"
           ],
@@ -615,7 +616,7 @@
   
   {
         "id": 16,
-        "gender": "Femme",
+        "gender": "femme",
         "age": 58,
         "name": {
           "title": "ms",
@@ -642,7 +643,7 @@
           "style": [
            "R’n’b"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Chant"
           ],
@@ -654,7 +655,7 @@
       }, 
   {
         "id": 17,
-        "gender": "Femme",
+        "gender": "femme",
         "age": 28,
         "name": {
           "title": "ms",
@@ -681,7 +682,7 @@
           "style": [
            "Rap"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Chant"
           ],
@@ -694,7 +695,7 @@
       
                   {
         "id": 18,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 18,
         "name": {
           "title": "mr",
@@ -721,7 +722,7 @@
           "style": [
            "Rock"
           ],
-          "expérience": "Confirmé",
+          "experience": "confirmé",
           "instrument": [
             "Batterie"
           ],
@@ -734,7 +735,7 @@
       
       {
         "id": 19,
-        "gender": "Homme",
+        "gender": "homme",
         "age": 54,
         "name": {
           "title": "mr",
@@ -761,7 +762,7 @@
           "style": [
            "Classique"
           ],
-          "expérience": "Intermédiaire",
+          "experience": "intermédiaire",
           "instrument": [
             "Flute"
           ],
