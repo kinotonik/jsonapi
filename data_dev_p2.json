@@ -1,60 +1,61 @@
 {
 "data":[
   {
-    devName: 'Andréa',
-    devDescription: 'The original Andréa',
-    devBck:
+    "devName": 'Andréa',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'Brice',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'Brice',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'Jonas',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'Jonas',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'Mehdi',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'Mehdi',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'David',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'Joshua',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'Joshua',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'David',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
   },
-  {
-    devName: 'Victor',
-    devDescription: 'The original Andréa',
-    devBck:
+    {
+    "devName": 'Victor',
+    "devDescription": 'The original Andréa',
+    "devBck":
       'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    devAvatar: 'https://bit.ly/2GJFu5W',
-    devBtn: 'https://'
-  }
+    "devAvatar": 'https://bit.ly/2GJFu5W',
+    "devBtn": 'https://'
+  },
+
 ]
 }
