@@ -122,7 +122,8 @@
 		"niveau": "débutant",
 		"objectif": "loisir",
 		"city": "Tours"
-	}
+	},
+    "description":"Jeune groupe punk amateur de 3 membres, formé depuis quelques années, recherche un bassiste pour faire de la bonne musique Punk."
 },
 
 
@@ -218,7 +219,8 @@
 		"niveau": "débutant",
 		"objectif": "loisir",
 		"city": "Sarcelles"
-	}
+	},
+    "description":"Nous sommes un groupe de rap composé de 2 membres et nous recherchons un troisiéme membre pouvant chanter avec un bon rythme. "
 },
 
 
@@ -347,7 +349,8 @@
 		"niveau": "confirmé",
 		"objectif": "loisir",
 		"city": "Lyon"
-	}
+	},
+    "description":"Les AfroDisco recherche un quatriéme membres pour chanter et danser dans les environs de Lyon. Ce membre devra pouvoir jouer du tambour (on ne sait jamais...) "
 },
 
 
@@ -477,12 +480,9 @@
 		"niveau": "intermédiaire",
 		"objectif": "loisir",
 		"city": "Marseille"
-	}
+	},
+    "description":"Nous recherchons dans les environs de Marseille , un nouveau membre sachant jouer du triangle (il n'est pas obligé d'être un Illuminati) "
 },
-
-
-
-
 {
 	"id": 5,
 	"name": "Au gré du vent",
@@ -575,9 +575,10 @@
 	"search": {
 		"instrument": "Violon",
 		"niveau": "intermédiaire",
-		"objectif": "Pro",
+		"objectif": "professionnel",
 		"city": "Orléans"
-	}
+	},
+    "description":"Cherchons violonniste de niveau intermédiarie pour se produire sur scéne, devant un public nombreux."
 },
 
 {
@@ -675,9 +676,10 @@
 	"search": {
 		"instrument": "Basse",
 		"niveau": "intermédiaire",
-		"objectif": "Loisir",
+		"objectif": "loisir",
 		"city": "Saint-Hippolyte"
-	}
+	},
+    "description":"Les Pédiluves sont un groupe de 2 membres en rase campagne, nous jouons exclusivement du métal, il nous manque malheuresement un bassiste pour sublimer notre art."
 },
 
 
@@ -804,7 +806,8 @@
 		"niveau": "intermédiaire",
 		"objectif": "loisir",
 		"city": "Nantes"
-	}
+	},
+    "description":" "
 },
 
 
@@ -931,7 +934,8 @@
 		"niveau": "intermédiaire",
 		"objectif": "loisir",
 		"city": "Nantes"
-	}
+	},
+    "description":"Groupe jouant de la musique de style punk ou métal, nosu cherchons un violonniste (pourquoi pas), pour apporter une touche de fraicheur à ses styles de musique. "
 },
 
 
@@ -1130,9 +1134,10 @@
                     "search": {
                         "instrument": "Batterie",
                         "niveau": "confirmé",
-                        "objectif": "confirmé",
+                        "objectif": "professionnel",
                         "city": "Paris"
-                    }
+                    },
+                    "description":"Dans les environs de Paris, nous recherchons un/une batteuse confirmé(e), pour compléter notre groupe de Jazz, en vue de faire des concerts (dans des bars); "
                 },
 
     {
@@ -1227,9 +1232,10 @@
         "search": {
             "instrument": "Beatbox",
             "niveau": "confirmé",
-            "objectif": "confirmé",
+            "objectif": "professionnel",
             "city": "Paris"
-        }
+        },
+        "description":"Cherchons quelqu'un savant faire de beatbox, en effet, nous sommes des chanteurs mais n'avons personne pour mettre le rythme."
     },
 
     {
@@ -1357,7 +1363,8 @@
             "niveau": "intermédiaire",
             "objectif": "loisir",
             "city": "Paris"
-        }
+        },
+        "description":"Groupe composé de 3 personnes, nosu recherchons un ou une chanteuse pour faire des reprise de R'n'B (dans un premier temps) et pourquoi pas écrire nos propres paroles. "
     },
     
     {
@@ -1488,9 +1495,10 @@
         "search": {
             "instrument": "Triangle électrique",
             "niveau": "intermédiaire",
-            "objectif": "Pro",
+            "objectif": "professionnel",
             "city": "Allemagne"
-        }
+        },
+        "description":"Nous avons créé un groupe de 3 personnes pour montrer à Berlin que les français savent aussi jouer du Punk."
     }
     
 
