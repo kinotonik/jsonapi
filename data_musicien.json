@@ -37,7 +37,12 @@
             "Guitare"
           ],
           "lien": "https",
-            "description": "Dès ma plus tendre enfance, j'ai appris la guitare comme mes plus grands idoles. Les partitions d'une lignes n'ont aucuns secrets pour moi."
+            "description": "Dès ma plus tendre enfance, j'ai appris la guitare comme mes plus grands idoles. Les partitions d'une lignes n'ont aucuns secrets pour moi.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "débutant",
+		"objectif": "loisir",
+		"city": "Tours"
   
         }
       },
@@ -76,7 +81,12 @@
             "Basse"
           ],
           "lien": "https",
-          "description": "Punk depuis 3 ans, je joues dans des lieux underground pour le plaisir, je cherche désormais à me produire un peu plus sur scène."
+          "description": "Punk depuis 3 ans, je joues dans des lieux underground pour le plaisir, je cherche désormais à me produire un peu plus sur scène.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "professionnel",
+		"city": "Tours"
 
         }
       },
@@ -115,7 +125,12 @@
             "Violon"
           ],
           "lien": "https",
-           "description": "J'ai appris le violon au conservatoire durant 5 ans, je souhaites trouver d'autres personnes qui partage ma passion."
+           "description": "J'ai appris le violon au conservatoire durant 5 ans, je souhaites trouver d'autres personnes qui partage ma passion.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Marseille"
 
         }
       },
@@ -154,7 +169,12 @@
           "Saxophone"
         ],
         "lien": "https",
-           "description": "Apprentissage du saxophone en autodidacte, je joues principalement du Jazz, et je cherche un groupe qui veut se produire sur scène pour m'entrainer a jouer devant un public."
+           "description": "Apprentissage du saxophone en autodidacte, je joues principalement du Jazz, et je cherche un groupe qui veut se produire sur scène pour m'entrainer a jouer devant un public.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Loches"
 
       }
     },
@@ -194,7 +214,12 @@
             "Piano"
         ],
         "lien": "https",
-           "description": "je me suis dèja produit sur scène, je recherche cependant d'autre expérience de scène."
+           "description": "je me suis dèja produit sur scène, je recherche cependant d'autre expérience de scène.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Paris"
 
       }
     },
@@ -233,7 +258,12 @@
           "Guitare"
         ],
         "lien": "https",
-           "description": "Passionné de Disco, j'en joues exclusivement, jai fais un peu de rue pour m'entrainer à jouer devant un vrai public."
+           "description": "Passionné de Disco, j'en joues exclusivement, jai fais un peu de rue pour m'entrainer à jouer devant un vrai public.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "débutant",
+		"objectif": "professionnel",
+		"city": "Nantes"
 
       }
     },
@@ -274,7 +304,12 @@
   
           ],
         "lien": "https",
-           "description": "A la retraite depuis 10 ans, et chanteuse d'Opéra, je recherche des compagnons souhaitant partager de bons moments."
+           "description": "A la retraite depuis 10 ans, et chanteuse d'Opéra, je recherche des compagnons souhaitant partager de bons moments.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Monaco"
 
         }
       },
@@ -316,7 +351,12 @@
             "Guitare"
           ],
           "lien": "https",
-           "description": "Plusieurs concerts à mon actif, avec mon ancien groupe, nous nous sommes cependant séparé sutie à des divergences musicales."
+           "description": "Plusieurs concerts à mon actif, avec mon ancien groupe, cependant nous nous sommes  séparé suite à des divergences musicales.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Nantes"
 
         }
       },
@@ -355,7 +395,12 @@
             "Batterie"
           ],
           "lien": "https",
-           "description": "Joueur de batterie depuis mon enfance, je souhaiterais trouver un groupe qui se produit sur scène."
+           "description": "Joueur de batterie depuis mon enfance, je souhaiterais trouver un groupe qui se produit sur scène.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Nantes"
 
         }
       },
@@ -398,7 +443,12 @@
             "Harpe"
           ],
       "lien":"https://www.shutterstock.com/fr/music/track-438590-scarborough-fair",
-           "description": "Tout juste sortie du conservatoire, je recherche un groupe dans la région de Tours (je suis toute nouvelle dans la région)."
+           "description": "Tout juste sortie du conservatoire, je recherche un groupe dans la région de Tours (je suis toute nouvelle dans la région).",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "loisir",
+		"city": "Tours"
 
   
         }
@@ -438,7 +488,12 @@
             "Platine"
           ],
       "lien":"https://www.shutterstock.com/fr/music/track-1216158-subterfuge",
-           "description": "La techno est un hobbie tout récent, je recherche un collectif pour partager des astuces autour de la Platine."
+           "description": "La techno est un hobbie tout récent, je recherche un collectif pour partager des astuces autour de la Platine.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "débutant",
+		"objectif": "loisir",
+		"city": "Nantes"
 
   
         }
@@ -478,7 +533,12 @@
             "Batterie"
           ],
       "lien":"https://www.shutterstock.com/fr/music/track-437141-final-stage",
-           "description": "Etudiant en étude de commerce, arrivant tou juste au Mans, je recherche un groupe pour faire des buffs ensemble."
+           "description": "Etudiant en étude de commerce, arrivant tou juste au Mans, je recherche un groupe pour faire des buffs ensemble.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Le Mans"
 
   
         }
@@ -522,7 +582,12 @@
             "Chant"
           ],
           "lien": "https",
-           "description": "Chanteuse de rock qui a encore beaucoup à apprendre, je recherche un groupe qu ipourrait me guider."
+           "description": "Chanteuse de rock qui a encore beaucoup à apprendre, je recherche un groupe qui pourrait me guider.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "La Loupe"
 
   
         }
@@ -564,7 +629,15 @@
             "Guitare"
           ],
           "lien": "https",
-           "description": "Je joues de la Guitare depuis quelques années, et je recherches un groupe qui voudrait bine faire des buffs aevc moi."
+         "description": "Je joues de la Guitare depuis quelques années, et je recherches un groupe qui voudrait bine faire des buffs aevc moi.",
+
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "loisir",
+		"city": "Chartres"
+
+           
 
   
         }
@@ -604,7 +677,12 @@
             "Guitare Electrique"
           ],
            "lien": "https",
-           "description": "J'adores le punk, je suis même venus à Berlin pour les concert Underground, s'il y a un groupe vers Berlin, je suis preneur."
+           "description": "J'adores le punk, je suis même venus à Berlin pour les concert Underground, s'il y a un groupe vers Berlin, je suis preneur.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Berlin"
 
   
         }
@@ -648,7 +726,12 @@
             "Chant"
           ],
            "lien": "https",
-           "description": "Chanteuse depuis toute petite, j'ai même participé à des cours de chant."
+           "description": "Chanteuse depuis toute petite, j'ai même participé à des cours de chant.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Paris"
 
   
         }
@@ -687,7 +770,13 @@
             "Chant"
           ],
            "lien": "https",
-           "description": "Je recherche un collectif de Rap, pour se produire ensemble et partager ma passion."
+           "description": "Je recherche un collectif de Rap, pour se produire ensemble et partager ma passion.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Paris"
+
 
   
         }
@@ -727,7 +816,12 @@
             "Batterie"
           ],
           "lien": "https",
-           "description": "Batteur depuis tout petit, mon pére m'a tout appris."
+           "description": "Batteur depuis tout petit, mon pére m'a tout appris.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "confirmé",
+		"objectif": "professionnel",
+		"city": "Lyon"
 
   
         }
@@ -767,7 +861,12 @@
             "Flute"
           ],
           "lien": "https",
-           "description": "Recherche un groupe qui souhaiterait avoir un joueur de flute."
+           "description": "Recherche un groupe qui souhaiterait avoir un joueur de flute.",
+            	"search": {
+		"type": "groupe",
+		"niveau": "intermédiaire",
+		"objectif": "loisir",
+		"city": "Marseille"
 
   
         }
