@@ -1,61 +1,61 @@
 {
 "data":[
   {
-    "devName": 'Andréa',
-    "devDescription": 'The original Andréa',
+    "devName": "Andréa",
+    "devDescription": "The original Andréa",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'Brice',
-    "devDescription": 'The original Andréa',
+    "devName": "Brice",
+    "devDescription": "The original Brice",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'Jonas',
-    "devDescription": 'The original Andréa',
+    "devName": "Jonas",
+    "devDescription": "The original Jonas",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'Mehdi',
-    "devDescription": 'The original Andréa',
+    "devName": "Mehdi",
+    "devDescription": "The original Mehdi",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'Joshua',
-    "devDescription": 'The original Andréa',
+    "devName": "Joshua",
+    "devDescription": "The original Joshua",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'David',
-    "devDescription": 'The original Andréa',
+    "devName": "Victor",
+    "devDescription": "The original Victor",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
     {
-    "devName": 'Victor',
-    "devDescription": 'The original Andréa',
+    "devName": "David",
+    "devDescription": "The original David",
     "devBck":
-      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
-    "devAvatar": 'https://bit.ly/2GJFu5W',
-    "devBtn": 'https://'
+      "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+    "devAvatar": "https://bit.ly/2GJFu5W",
+    "devBtn": "https://"
   },
-
+    
 ]
 }
