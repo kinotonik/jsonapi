@@ -1,4 +1,4 @@
-const devList = [
+[
   {
     devName: 'Andréa',
     devDescription: 'The original Andréa',
