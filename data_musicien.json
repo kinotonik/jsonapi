@@ -629,12 +629,15 @@
             "Guitare"
           ],
           "lien": "https",
-           "description": "Je joeus de la Guitare depuis quelques années, et je recherches un groupe qui voudrait bien faire des buffs avec moi.",
+         "description": "Je joues de la Guitare depuis quelques années, et je recherches un groupe qui voudrait bine faire des buffs aevc moi.",
+
             	"search": {
 		"type": "groupe",
 		"niveau": "confirmé",
 		"objectif": "loisir",
 		"city": "Chartres"
+
+           
 
   
         }

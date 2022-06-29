@@ -1,0 +1,61 @@
+{
+  "data":[
+    {
+      "devName": "Andréa",
+      "devDescription": "The original Andréa",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    },
+      {
+      "devName": "Brice",
+      "devDescription": "The original Brice",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    },
+      {
+      "devName": "Jonas",
+      "devDescription": "The original Jonas",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    },
+      {
+      "devName": "Mehdi",
+      "devDescription": "The original Mehdi",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://youtu.be/VTHSOR9jTRw"
+    },
+      {
+      "devName": "Joshua",
+      "devDescription": "The original Joshua",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    },
+      {
+      "devName": "Victor",
+      "devDescription": "The original Victor",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    },
+      {
+      "devName": "David",
+      "devDescription": "The original David",
+      "devBck":
+        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
+      "devBtn": "https://"
+    }
+
+  ]
+}
