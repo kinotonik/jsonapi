@@ -1,0 +1,58 @@
+const devList = [
+  {
+    devName: 'Andréa',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'Brice',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'Jonas',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'Mehdi',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'David',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'Joshua',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  },
+  {
+    devName: 'Victor',
+    devDescription: 'The original Andréa',
+    devBck:
+      'https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg',
+    devAvatar: 'https://bit.ly/2GJFu5W',
+    devBtn: 'https://'
+  }
+]
