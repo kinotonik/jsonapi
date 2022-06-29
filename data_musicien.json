@@ -44,7 +44,7 @@
 		"objectif": "loisir",
 		"city": "Tours"
   
-        }
+        }}
       },
       
           {
@@ -88,7 +88,7 @@
 		"objectif": "professionnel",
 		"city": "Tours"
 
-        }
+        }}
       },
       
               {
@@ -132,7 +132,7 @@
 		"objectif": "loisir",
 		"city": "Marseille"
 
-        }
+        }}
       },
       
       {
@@ -176,7 +176,7 @@
 		"objectif": "professionnel",
 		"city": "Loches"
 
-      }
+      }}
     },
   
     {
@@ -221,7 +221,7 @@
 		"objectif": "professionnel",
 		"city": "Paris"
 
-      }
+      }}
     },
     {
       "id": 6,
@@ -265,7 +265,7 @@
 		"objectif": "professionnel",
 		"city": "Nantes"
 
-      }
+      }}
     },
   
       
@@ -311,7 +311,7 @@
 		"objectif": "loisir",
 		"city": "Monaco"
 
-        }
+        }}
       },
   
   
@@ -358,7 +358,7 @@
 		"objectif": "professionnel",
 		"city": "Nantes"
 
-        }
+        }}
       },
   
   {
@@ -402,7 +402,7 @@
 		"objectif": "professionnel",
 		"city": "Nantes"
 
-        }
+        }}
       },
   
   
@@ -451,7 +451,7 @@
 		"city": "Tours"
 
   
-        }
+        }}
       },
   {
         "id": 11,
@@ -496,7 +496,7 @@
 		"city": "Nantes"
 
   
-        }
+        }}
       },
   {
         "id": 12,
@@ -541,7 +541,7 @@
 		"city": "Le Mans"
 
   
-        }
+        }}
       },
   
   
@@ -590,7 +590,7 @@
 		"city": "La Loupe"
 
   
-        }
+        }}
       },
   
   
@@ -640,7 +640,7 @@
            
 
   
-        }
+        }}
       },
       
       {
@@ -685,7 +685,7 @@
 		"city": "Berlin"
 
   
-        }
+        }}
       },
   
   
@@ -734,7 +734,7 @@
 		"city": "Paris"
 
   
-        }
+        }}
       }, 
   {
         "id": 17,
@@ -824,7 +824,7 @@
 		"city": "Lyon"
 
   
-        }
+        }}
       },
       
       {
@@ -869,7 +869,7 @@
 		"city": "Marseille"
 
   
-        }
+        }}
       }
       
      ]
