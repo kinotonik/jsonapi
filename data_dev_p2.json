@@ -4,8 +4,7 @@
       "id":1,
       "devName": "Andréa",
       "devDescription": "The original Andréa",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     },
@@ -13,8 +12,7 @@
         "id":2,
       "devName": "Brice",
       "devDescription": "The original Brice",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     },
@@ -22,8 +20,7 @@
         "id":3,
       "devName": "Jonas",
       "devDescription": "The original Jonas",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     },
@@ -31,8 +28,7 @@
         "id":4,
       "devName": "Mehdi",
       "devDescription": "The original Mehdi",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://youtu.be/rYelEUVQ50g"
     },
@@ -40,8 +36,7 @@
         "id":5,
       "devName": "Joshua",
       "devDescription": "The original Joshua",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     },
@@ -49,8 +44,7 @@
         "id":6,
       "devName": "Victor",
       "devDescription": "The original Victor",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     },
@@ -58,8 +52,7 @@
         "id":7,
       "devName": "David",
       "devDescription": "The original David",
-      "devBck":
-        "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
+      "devBck": "https://images.pexels.com/photos/2088208/pexels-photo-2088208.jpeg",
       "devAvatar": "https://images.pexels.com/photos/356147/pexels-photo-356147.jpeg",
       "devBtn": "https://"
     }
