@@ -31,7 +31,7 @@
               },
               "music": {
                   "style": ["Punk"],
-                  "experience": "débutant",
+                  "experience": "Débutant",
                   "instrument": [
                       "Guitare"
                   ]
@@ -63,7 +63,7 @@
     },
     "music": {
       "style": ["Punk"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Batterie"
       ]
@@ -94,7 +94,7 @@
     },
     "music": {
       "style": ["Punk"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Chant"				]
     }
@@ -111,7 +111,7 @@
   }
 },
 "style": ["Punk"],
-"experience": "débutant",
+"experience": "Débutant",
 "instrument": [
   "Guitare",
   "Chant",
@@ -119,8 +119,8 @@
 ],
 "search": {
   "instrument": "Basse",
-  "niveau": "débutant",
-  "objectif": "loisir",
+  "niveau": "Débutant",
+  "objectif": "Loisir",
   "city": "Tours"
 },
   "description":"Jeune groupe punk amateur de 3 membres, formé depuis quelques années, recherche un bassiste pour faire de la bonne musique Punk.",
@@ -158,7 +158,7 @@
     },
     "music": {
       "style": ["RAP"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Chant"
       ]
@@ -190,7 +190,7 @@
     },
     "music": {
       "style": ["RAP"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Paltine"
       ]
@@ -210,15 +210,15 @@
   }
 },
 "style": ["RAP"],
-"experience": "débutant",
+"experience": "Débutant",
 "instrument": [
   "Platine",
   "Chant"
 ],
 "search": {
   "instrument": "piano",
-  "niveau": "débutant",
-  "objectif": "loisir",
+  "niveau": "Débutant",
+  "objectif": "Loisir",
   "city": "Sarcelles"
 },
   "description":"Nous sommes un groupe de rap composé de 2 membres et nous recherchons un troisiéme membre pouvant chanter avec un bon rythme. ",
@@ -258,7 +258,7 @@
     },
     "music": {
       "style": ["Disco"],
-      "experience": "confirmé",
+      "experience": "Confirmé",
       "instrument": [
         "Guitare"
       ]
@@ -290,7 +290,7 @@
     },
     "music": {
       "style": ["Disco"],
-      "experience": "confirmé",
+      "experience": "Confirmé",
       "instrument": [
         "Batterie"
       ]
@@ -323,7 +323,7 @@
     },
     "music": {
       "style": ["Disco"],
-      "experience": "confirmé",
+      "experience": "Confirmé",
       "instrument": [
         "Basse"				]
     }
@@ -340,7 +340,7 @@
   }
 },
 "style": ["Disco"],
-"experience": "confirmé",
+"experience": "Confirmé",
 "instrument": [
   "Guitare",
   "Batterie",
@@ -348,8 +348,8 @@
 ],
 "search": {
   "instrument": "Tambour",
-  "niveau": "confirmé",
-  "objectif": "loisir",
+  "niveau": "Confirmé",
+  "objectif": "Loisir",
   "city": "Lyon"
 },
   "description":"Les AfroDisco recherche un quatriéme membres pour chanter et danser dans les environs de Lyon. Ce membre devra pouvoir jouer du tambour (on ne sait jamais...) ",
@@ -390,7 +390,7 @@
     },
     "music": {
       "style": ["Mariachi"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Maracasse"
       ]
@@ -422,7 +422,7 @@
     },
     "music": {
       "style": ["Mariachi"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Guitare"
       ]
@@ -455,7 +455,7 @@
     },
     "music": {
       "style": ["Mariachi"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Chant"				]
     }
@@ -472,7 +472,7 @@
   }
 },
 "style": ["Mariachi"],
-"experience": "intermédiaire",
+"experience": "Intermédiaire",
 "instrument": [
   "Maracasse",
   "Guitare",
@@ -480,8 +480,8 @@
 ],
 "search": {
   "instrument": "Triangle",
-  "niveau": "intermédiaire",
-  "objectif": "loisir",
+  "niveau": "Intermédiaire",
+  "objectif": "Loisir",
   "city": "Marseille"
 },
   "description":"Nous recherchons dans les environs de Marseille , un nouveau membre sachant jouer du triangle (il n'est pas obligé d'être un Illuminati) ",
@@ -519,7 +519,7 @@
     },
     "music": {
       "style": ["Classique"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Harpe"
       ]
@@ -551,7 +551,7 @@
     },
     "music": {
       "style": ["Classique"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Triangle"
       ]
@@ -570,7 +570,7 @@
   }
 },
 "style": ["Classique"],
-"experience": "intermédiaire",
+"experience": "Intermédiaire",
 "instrument": [
   "Harpe",
   "Triangle"
@@ -578,8 +578,8 @@
 ],
 "search": {
   "instrument": "Violon",
-  "niveau": "intermédiaire",
-  "objectif": "professionnel",
+  "niveau": "Intermédiaire",
+  "objectif": "Professionnel",
   "city": "Orléans"
 },
   "description":"Cherchons violonniste de niveau intermédiarie pour se produire sur scéne, devant un public nombreux.",
@@ -618,7 +618,7 @@
     },
     "music": {
       "style": ["Metal"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Chant",
         "Guitare"
@@ -652,7 +652,7 @@
     },
     "music": {
       "style": ["Métal"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Batterie"
       ]
@@ -671,7 +671,7 @@
   }
 },
 "style": ["Metal"],
-"experience": "intermédiaire",
+"experience": "Intermédiaire",
 "instrument": [
   "Chant",
   "Batterie",
@@ -680,8 +680,8 @@
 ],
 "search": {
   "instrument": "Basse",
-  "niveau": "intermédiaire",
-  "objectif": "loisir",
+  "niveau": "Intermédiaire",
+  "objectif": "Loisir",
   "city": "Saint-Hippolyte"
 },
   "description":"Les Pédiluves sont un groupe de 2 membres en rase campagne, nous jouons exclusivement du métal, il nous manque malheuresement un bassiste pour sublimer notre art.",
@@ -718,7 +718,7 @@
     },
     "music": {
       "style": ["Rock"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Guitare"
       ]
@@ -749,7 +749,7 @@
     },
     "music": {
       "style": ["Rock","Punk"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Chant"
       ]
@@ -782,7 +782,7 @@
     },
     "music": {
       "style": ["Rock"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Piano"]
     }
@@ -799,7 +799,7 @@
   }
 },
 "style": ["Punk","Rock"],
-"experience": "intermédiaire",
+"experience": "Intermédiaire",
 "instrument": [
   "Guitare",
   "Chant",
@@ -809,8 +809,8 @@
 ],
 "search": {
   "instrument": "Basse",
-  "niveau": "intermédiaire",
-  "objectif": "loisir",
+  "niveau": "Intermédiaire",
+  "objectif": "Loisir",
   "city": "Nantes"
 },
   "description":"Groupe de Punk-Rock dans les environs de Nantes, on recherche un bassiste pour s'amuser à faire du son. ",
@@ -878,7 +878,7 @@
     },
     "music": {
       "style": ["Rock","Punk"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
         "Chant"
       ]
@@ -911,7 +911,7 @@
     },
     "music": {
       "style": ["Rock"],
-      "experience": "débutant",
+      "experience": "Débutant",
       "instrument": [
         "Piano"]
     }
@@ -928,7 +928,7 @@
   }
 },
 "style": ["Punk","Metal"],
-"experience": "intermédiaire",
+"experience": "Intermédiaire",
 "instrument": [
   "Guitare",
   "Chant",
@@ -938,8 +938,8 @@
 ],
 "search": {
   "instrument": "violon",
-  "niveau": "intermédiaire",
-  "objectif": "loisir",
+  "niveau": "Intermédiaire",
+  "objectif": "Loisir",
   "city": "Nantes"
 },
   "description":"Groupe jouant de la musique de style punk ou métal, nosu cherchons un violonniste (pourquoi pas), pour apporter une touche de fraicheur à ses styles de musique. ",
@@ -1131,7 +1131,7 @@
                       }
                   },
                   "style": ["Jazz"],
-                  "experience": "confirmé",
+                  "experience": "Confirmé",
                   "instrument": [
                       "Guitare",
                       "Chant",
@@ -1141,11 +1141,11 @@
                   ],
                   "search": {
                       "instrument": "Batterie",
-                      "niveau": "confirmé",
-                      "objectif": "professionnel",
+                      "niveau": "Confirmé",
+                      "objectif": "Professionnel",
                       "city": "Paris"
                   },
-                  "description":"Dans les environs de Paris, nous recherchons un/une batteuse confirmé(e), pour compléter notre groupe de Jazz, en vue de faire des concerts (dans des bars); ",
+                  "description":"Dans les environs de Paris, nous recherchons un/une batteuse Confirmé(e), pour compléter notre groupe de Jazz, en vue de faire des concerts (dans des bars); ",
 "lien":"https://www.shutterstock.com/fr/music/track-1228222-spoonful-jam"
               },
 
@@ -1234,14 +1234,14 @@
           }
       },
       "style": ["Rap"],
-      "experience": "confirmé",
+      "experience": "Confirmé",
       "instrument": [
           "Chant"
       ],
       "search": {
           "instrument": "Beatbox",
-          "niveau": "confirmé",
-          "objectif": "professionnel",
+          "niveau": "Confirmé",
+          "objectif": "Professionnel",
           "city": "Paris"
       },
       "description":"Cherchons quelqu'un savant faire de beatbox, en effet, nous sommes des chanteurs mais n'avons personne pour mettre le rythme.",
@@ -1279,7 +1279,7 @@
               },
               "music": {
                   "style": ["R’n”b"],
-                  "experience": "intermédiaire",
+                  "experience": "Intermédiaire",
                   "instrument": [
                       "Piano"
                   ]
@@ -1312,7 +1312,7 @@
               },
               "music": {
                   "style": ["R’n’b"],
-                  "experience": "débutant",
+                  "experience": "Débutant",
                   "instrument": [
                       "Guitare"
                   ]
@@ -1345,7 +1345,7 @@
               },
               "music": {
                   "style": ["R’n’b"],
-                  "experience": "confirmé",
+                  "experience": "Confirmé",
                   "instrument": [
                       "Trompette"				]
               }
@@ -1362,7 +1362,7 @@
           }
       },
       "style": ["R’n’b"],
-      "experience": "confirmé",
+      "experience": "Confirmé",
       "instrument": [
           "Trompette",
           "Piano",
@@ -1370,8 +1370,8 @@
       ],
       "search": {
           "instrument": "Chant",
-          "niveau": "intermédiaire",
-          "objectif": "loisir",
+          "niveau": "Intermédiaire",
+          "objectif": "Loisir",
           "city": "Paris"
       },
       "description":"Groupe composé de 3 personnes, nosu recherchons un ou une chanteuse pour faire des reprise de R'n'B (dans un premier temps) et pourquoi pas écrire nos propres paroles. ",
@@ -1410,7 +1410,7 @@
               },
               "music": {
                   "style": ["Punk"],
-                  "experience": "intermédiaire",
+                  "experience": "Intermédiaire",
                   "instrument": [
                       "Guitare électrique"
                   ]
@@ -1442,7 +1442,7 @@
               },
                       "music": {
                   "style": ["Punk"],
-                  "experience": "intermédiaire",
+                  "experience": "Intermédiaire",
                   "instrument": [
                       "Chant"
                   ]
@@ -1475,7 +1475,7 @@
               },
                       "music": {
                   "style": ["Punk"],
-                  "experience": "intermédiaire",
+                  "experience": "Intermédiaire",
                   "instrument": [
                       "Batterie"
                   ]
@@ -1497,7 +1497,7 @@
   
 
       "style": ["Punk"],
-      "experience": "intermédiaire",
+      "experience": "Intermédiaire",
       "instrument": [
           "Batterie",
           "Guitare électrique",
@@ -1505,8 +1505,8 @@
       ],
       "search": {
           "instrument": "Triangle électrique",
-          "niveau": "intermédiaire",
-          "objectif": "professionnel",
+          "niveau": "Intermédiaire",
+          "objectif": "Professionnel",
           "city": "Allemagne"
       },
       "description":"Nous avons créé un groupe de 3 personnes pour montrer à Berlin que les français savent aussi jouer du Punk.",
