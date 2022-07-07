@@ -32,7 +32,7 @@
             "Disco"
           ],
 
-          "experience": "débutant",
+          "experience": "Débutant",
           "instrument": [
             "Guitare"
           ],
@@ -40,8 +40,8 @@
             "description": "Dès ma plus tendre enfance, j'ai appris la guitare comme mes plus grands idoles. Les partitions d'une lignes n'ont aucuns secrets pour moi.",
             	"search": {
 		"type": "groupe",
-		"niveau": "débutant",
-		"objectif": "loisir",
+		"niveau": "Débutant",
+		"objectif": "Loisir",
 		"city": "Tours"
   
         }}
@@ -253,7 +253,7 @@
         "style": [
           "Disco"
         ],
-        "experience": "débutant",
+        "experience": "Débutant",
         "instrument": [
           "Guitare"
         ],
@@ -261,7 +261,7 @@
            "description": "Passionné de Disco, j'en joues exclusivement, jai fais un peu de rue pour m'entrainer à jouer devant un vrai public.",
             	"search": {
 		"type": "groupe",
-		"niveau": "débutant",
+		"niveau": "Débutant",
 		"objectif": "professionnel",
 		"city": "Nantes"
 
